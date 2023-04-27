@@ -1,5 +1,6 @@
 body{
 	font-family: "Trirong", serif;
+	background-color: #212A3E;
 
 }
 #me{
@@ -16,5 +17,29 @@ body{
     top: 0;
     left: 0;
     min-height: 300px;
+}
+
+#landing{
+	background-color: #212A3E;
+
+}
+.jumbotron{
+
+	background-color: #212A3E;
+}
+#contact{
+	background-color: #212A3E
+}
+label,h2, h3{
+
+	color: white;
+}
+.d-block{
+
+/*	height: 250px;
+	width: 250px;
+	 background-position: center center;
+  background-size: cover;*/
+
 }
 
