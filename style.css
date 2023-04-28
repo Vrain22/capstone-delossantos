@@ -73,5 +73,8 @@ h1, p,  {
   font-family: "Dank Mono", ui-monospace, monospace;
 }
 
+#home,#ab,#trav,#con{
 
+  text-decoration: underline;
+}
 
