@@ -42,4 +42,7 @@ label,h2, h3{
   background-size: cover;*/
 
 }
+form, input{
+	font-size: 14px;
+}
 
